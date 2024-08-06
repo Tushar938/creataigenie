@@ -3,6 +3,8 @@
 import os
 import sys
 
+ALLOWED_HOSTS = ['16.171.28.222', 'https://creataigenie.com/']
+
 
 def main():
     """Run administrative tasks."""
